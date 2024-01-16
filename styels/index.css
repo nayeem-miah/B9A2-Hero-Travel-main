@@ -485,7 +485,7 @@ nav a{
         
     }
     .simple-place-img{
-    width: 330px;
+    width: 320px;
     height: 200px;
     margin-bottom: 50px;
 
@@ -500,18 +500,23 @@ nav a{
         margin-bottom: 50px;
         flex-direction: column;
     }
+    .input-head{
+        width: 320px;
+
+
+    }
     .input-tag > input {
         border-radius: 8px;
         width: 280px;
         height: 52px;
     }
     .input-img{
-        width:350px;
+        width:330px;
         margin-left: 15px;
     }
     .btn{
         width: 230px;
-        margin: 250px 0px 0px 110px;
+        margin: 250px 0px 0px 90px;
     }
 
     /* footer section */
